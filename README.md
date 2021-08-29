@@ -26,5 +26,5 @@ OpenBreweries and Wikipedia
 ```
 Matilda: Javascript/jQuery for API Calls
 Andrew: Use Javascript/JQuery to use split items up on the page
-Rahkeem:  
+Rahkeem:  http, powerpoint, pull request
 Eagle and Sergio: CSS stuff
